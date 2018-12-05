@@ -5,7 +5,7 @@ categories: portfolio
 ---
 [time-tracking-app webpage] made by React.js
 
-Check out the [time-tracking-app source] for more info on how to get the most out of Jekyll.
+Check out the [time-tracking-app source].
 
 
 [time-tracking-app webpage]: https://dongsubak.github.io/time-tracking-app/public/
