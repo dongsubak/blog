@@ -9,4 +9,4 @@ Check out the [time-tracking-app source].
 
 
 [time-tracking-app webpage]: https://dongsubak.github.io/time-tracking-app/public/
-[time-tracking-app source]: https://github.com/dongsubak/time-tracking-ap
+[time-tracking-app source]: https://github.com/dongsubak/time-tracking-app
