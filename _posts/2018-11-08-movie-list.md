@@ -5,7 +5,7 @@ categories: portfolio
 ---
 [Movie list webpage] made by React.js
 
-Check out the [Movie-source] for more info on how to get the most out of Jekyll.
+Check out the [Movie-source].
 
 
 [Movie list webpage]: https://dongsubak.github.io/movie/
