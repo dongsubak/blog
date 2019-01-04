@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "Richard Park"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Front-end developer. HTML/CSS Javascript React.js GraphQL Node.js"
+  bio              : "Full Stack developer. HTML/CSS Javascript jQuery React.js React Native Node.js Express.js SQL MongoDB GraphQL"
   location         : "Surrey, BC, Canada"
   email            : "likeap@gmail.com"
   links:
