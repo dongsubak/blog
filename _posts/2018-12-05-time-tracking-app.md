@@ -3,7 +3,7 @@ title: "Time Tracking Web Application"
 date: 2018-12-05 15:00:00 +0900
 categories: portfolio
 ---
-[time-tracking-app webpage] made by React.js
+[time-tracking-app webpage] made with React.js
 
 Check out the [time-tracking-app source].
 
