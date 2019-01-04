@@ -1,5 +1,5 @@
 ---
-title: "Movie list webpage made with React.js"
+title: "Movie list Web Application"
 date: 2018-11-08 22:14:00 +0900
 categories: portfolio
 ---
