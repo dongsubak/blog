@@ -1,9 +1,9 @@
 ---
-title: "voting-app webpage made by React.js"
+title: "Voting App Web Application"
 date: 2018-12-05 17:00:00 +0900
 categories: portfolio
 ---
-[voting-app webpage] made by React.js
+[voting-app webpage] made with React.js
 
 Check out the [voting-app source].
 
