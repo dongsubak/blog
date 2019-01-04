@@ -1,5 +1,5 @@
 ---
-title: "Shopping app made with React Native and Expo"
+title: "Shopping App"
 date: 2019-01-04 22:00:00 +0900
 categories: portfolio
 ---
