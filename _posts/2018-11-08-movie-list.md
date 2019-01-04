@@ -1,9 +1,9 @@
 ---
-title: "Movie list webpage made by React.js"
+title: "Movie list webpage made with React.js"
 date: 2018-11-08 22:14:00 +0900
 categories: portfolio
 ---
-[Movie list webpage] made by React.js
+[Movie list webpage] made with React.js
 
 Check out the [Movie-source].
 
